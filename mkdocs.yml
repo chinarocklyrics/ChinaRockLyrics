@@ -1,0 +1,33 @@
+site_name: My Docs
+site_url: https://chinarocklyrics.github.io/ChinaRockLyricsInMkdocs
+theme:
+  name: material
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
+  logo: assets/favicon.ico
+  favicon: assets/favicon.ico
+  features:
+    - navigation.footer
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+copyright: Copyright &copy; 2025 chinarocklyrics@gmail.com. Distributed by an <a href="https://github.com/chinarocklyrics/chinarocklyrics.github.io/blob/main/LICENSE.txt">BSD-3 license.</a>
