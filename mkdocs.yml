@@ -7,8 +7,7 @@ theme:
     code: Red Hat Mono
   logo: assets/favicon.ico
   favicon: assets/favicon.ico
-  features:
-    - navigation.top
+
   palette:
     # Dark Mode
     - scheme: slate
@@ -36,8 +35,11 @@ copyright: Copyright &copy; 2025 chinarocklyrics@gmail.com. Distributed by an <a
 nav:
   - Home: index.md
   - Singer or Band Name:
+#      - singer_or_band_name/index.md
       - Singer or Band Name Starts with C:
+#          - singer_or_band_name/singer_or_band_name_c/index.md
           - 崔健: singer_or_band_name/singer_or_band_name_c/Cui_Jian/index.md
   - Song Name:
+#      - song_name/index.md
       - Song Name Starts with X: song_name/song_name_x/index.md
       - Song Name Starts with Y: song_name/song_name_y/index.md
