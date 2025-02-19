@@ -30,6 +30,8 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 copyright: Copyright &copy; 2025 chinarocklyrics@gmail.com. Distributed by an <a href="https://github.com/chinarocklyrics/chinarocklyrics.github.io/blob/main/LICENSE.txt">BSD-3 license.</a>
+extra:
+  generator: false
 
 # Page tree
 nav:
