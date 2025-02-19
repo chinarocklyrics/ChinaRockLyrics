@@ -36,8 +36,6 @@ copyright: Copyright &copy; 2025 chinarocklyrics@gmail.com. Distributed by an <a
 nav:
   - Home: index.md
   - Singer or Band Name:
-      - Singer or Band Name Starts with C: singer_or_band_name/singer_or_band_name_c/index.md
-  - Singer or Band Name:
       - Singer or Band Name Starts with C:
           - 崔健: singer_or_band_name/singer_or_band_name_c/Cui_Jian/index.md
   - Song Name:
