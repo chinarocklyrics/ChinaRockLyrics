@@ -31,3 +31,13 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 copyright: Copyright &copy; 2025 chinarocklyrics@gmail.com. Distributed by an <a href="https://github.com/chinarocklyrics/chinarocklyrics.github.io/blob/main/LICENSE.txt">BSD-3 license.</a>
+
+# Page tree
+nav:
+  - Home: index.md
+  - Singer or Band Name: singer_or_band_name/index.md
+    - Singer or Band Name Starts with C: singer_or_band_name/singer_or_band_name_c/index.md
+      - 崔健: singer_or_band_name/singer_or_band_name_c/Cui_Jian/index.md
+  - Song Name: song_name/index.md
+    - Song Name Starts with X: song_name/song_name_x/index.md
+    - Song Name Starts with Y: song_name/song_name_y/index.md
