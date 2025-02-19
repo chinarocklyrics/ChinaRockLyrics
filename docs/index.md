@@ -7,10 +7,8 @@ permalink: /
 ---
 
 # Welcome to China Rock Lyrics! 🎸 – Your Gateway to China’s Rock Revolution
-{: .fs-9 }
 
 ChinaRockLyrics.github.io is your ultimate destination for exploring the lyrics of China's rock music scene. Whether you're a longtime fan or just discovering the rich and rebellious world of Chinese rock (中国摇滚), this collection brings together the words that have shaped generations of music lovers.
-{: .fs-6 .fw-300 }
 
 ---
 
