@@ -3,7 +3,7 @@ site_url: https://chinarocklyrics.github.io/ChinaRockLyrics
 theme:
   name: material
   font:
-    text: Merriweather Sans
+    text: Noto Sans
     code: Red Hat Mono
   logo: assets/favicon.ico
   favicon: assets/favicon.ico
