@@ -2,9 +2,9 @@ site_name: China Rock Lyrics
 site_url: https://chinarocklyrics.github.io/ChinaRockLyrics
 theme:
   name: material
+  custom_dir: overrides
   font:
     text: Noto Sans
-    code: Red Hat Mono
   logo: assets/favicon.ico
   favicon: assets/favicon.ico
 
