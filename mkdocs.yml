@@ -1,5 +1,5 @@
 site_name: China Rock Lyrics
-site_url: https://chinarocklyrics.github.io/ChinaRockLyrics
+site_url: https://chinarocklyrics.github.io/
 theme:
   name: material
   custom_dir: overrides
