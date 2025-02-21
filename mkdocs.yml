@@ -43,5 +43,6 @@ nav:
           - 崔健: singer_or_band_name/singer_or_band_name_c/Cui_Jian/index.md
   - Song Name:
 #      - song_name/index.md
+      - Song Name Starts with B: song_name/song_name_b/index.md
       - Song Name Starts with X: song_name/song_name_x/index.md
       - Song Name Starts with Y: song_name/song_name_y/index.md
