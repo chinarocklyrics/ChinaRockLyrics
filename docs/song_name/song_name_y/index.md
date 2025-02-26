@@ -8,3 +8,4 @@ nav_order: 25
 
 - [一无所有](../../lyrics/Cui_Jian/yiwusuoyou.md)
 - [一块红布](../../lyrics/Cui_Jian/yikuaihongbu.md)
+- [月梦](../../lyrics/Tang_Chao/yuemeng.md)

@@ -8,3 +8,4 @@ nav_order: 3
 
 - [从头再来](../../lyrics/Cui_Jian/congtouzailai.md)
 - [出走](../../lyrics/Cui_Jian/chuzou.md)
+- [传说](../../lyrics/Tang_Chao/chuanshuo.md)
