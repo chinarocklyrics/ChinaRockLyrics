@@ -41,6 +41,8 @@ nav:
       - Singer or Band Name Starts with C:
 #          - singer_or_band_name/singer_or_band_name_c/index.md
           - 崔健: singer_or_band_name/singer_or_band_name_c/Cui_Jian/index.md
+      - Singer or Band Name Starts with H:
+          - 黑豹: singer_or_band_name/singer_or_band_name_h/Hei_Bao/index.md
       - Singer or Band Name Starts with T:
           - 唐朝: singer_or_band_name/singer_or_band_name_t/Tang_Chao/index.md
   - Song Name:
@@ -54,5 +56,6 @@ nav:
       - Song Name Starts with R: song_name/song_name_r/index.md
       - Song Name Starts with S: song_name/song_name_s/index.md
       - Song Name Starts with T: song_name/song_name_t/index.md
+      - Song Name Starts with W: song_name/song_name_w/index.md
       - Song Name Starts with X: song_name/song_name_x/index.md
       - Song Name Starts with Y: song_name/song_name_y/index.md

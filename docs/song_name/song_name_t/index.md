@@ -8,3 +8,5 @@ nav_order: 20
 
 - [太阳](../../lyrics/Tang_Chao/taiyang.md)
 - [天堂](../../lyrics/Tang_Chao/tiantang.md)
+- [Take Care](../../lyrics/Hei_Bao/takecare.md)
+- [体会](../../lyrics/Hei_Bao/tihui.md)
