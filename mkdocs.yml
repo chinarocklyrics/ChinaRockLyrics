@@ -49,10 +49,14 @@ nav:
 #      - song_name/index.md
       - Song Name Starts with B: song_name/song_name_b/index.md
       - Song Name Starts with C: song_name/song_name_c/index.md
+      - Song Name Starts with D: song_name/song_name_d/index.md
       - Song Name Starts with F: song_name/song_name_f/index.md
       - Song Name Starts with H: song_name/song_name_h/index.md
       - Song Name Starts with J: song_name/song_name_j/index.md
+      - Song Name Starts with K: song_name/song_name_k/index.md
+      - Song Name Starts with L: song_name/song_name_l/index.md
       - Song Name Starts with M: song_name/song_name_m/index.md
+      - Song Name Starts with P: song_name/song_name_p/index.md
       - Song Name Starts with R: song_name/song_name_r/index.md
       - Song Name Starts with S: song_name/song_name_s/index.md
       - Song Name Starts with T: song_name/song_name_t/index.md

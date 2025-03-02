@@ -10,3 +10,4 @@ nav_order: 2
 - [不是我不明白](../../lyrics/Cui_Jian/bushiwobumingbai.md)
 - [不要逃避](../../lyrics/Tang_Chao/buyaotaobi.md)
 - [别来纠缠我](../../lyrics/Hei_Bao/bielaijiuchanwo.md)
+- [別去糟蹋](../../lyrics/Hei_Bao/biequzaota.md)
