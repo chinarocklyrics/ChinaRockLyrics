@@ -6,8 +6,8 @@ nav_order: 2
 
 # Song Name Starts with B
 
-- [不再掩饰](../../lyrics/Cui_Jian/buzaiyanshi.md)
-- [不是我不明白](../../lyrics/Cui_Jian/bushiwobumingbai.md)
-- [不要逃避](../../lyrics/Tang_Chao/buyaotaobi.md)
-- [别来纠缠我](../../lyrics/Hei_Bao/bielaijiuchanwo.md)
-- [別去糟蹋](../../lyrics/Hei_Bao/biequzaota.md)
+- [不再掩饰](/lyrics/Cui_Jian/buzaiyanshi)
+- [不是我不明白](/lyrics/Cui_Jian/bushiwobumingbai)
+- [不要逃避](/lyrics/Tang_Chao/buyaotaobi)
+- [别来纠缠我](/lyrics/Hei_Bao/bielaijiuchanwo)
+- [別去糟蹋](/lyrics/Hei_Bao/biequzaota)

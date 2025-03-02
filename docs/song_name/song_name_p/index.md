@@ -6,4 +6,4 @@ nav_order: 16
 
 # Song Name Starts with P
 
-- [怕你为自己流泪](../../lyrics/Hei_Bao/paniweizijiliulei.md)
+- [怕你为自己流泪](/lyrics/Hei_Bao/paniweizijiliulei)

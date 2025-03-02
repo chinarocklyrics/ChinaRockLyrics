@@ -42,3 +42,12 @@ nav_order: 1
 身边的水在流  
 噢……你这就跟我走  
 噢……你这就跟我走  
+
+<button onclick="document.getElementById('hiddenAudio').play();">
+  🎵 Listen
+</button>
+
+<audio id="hiddenAudio" controls style="display: none;">
+  <source src="/audio/Cui_Jian/yiwusuoyou.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
