@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+  {% if page.meta.audio %}
+    {% set audio_path = page.file.src_path | replace("lyrics/", "/audio/") | replace(".md", ".m4a") %}
+    <button onclick="document.getElementById('hiddenAudio').play();">
+      🎵 Listen
+    </button>
+    
+    <audio id="hiddenAudio" controls style="display: none;">
+      <source src="{{ audio_path }}" type="audio/mp4">
+      Your browser does not support the audio element.
+    </audio>
+  {% endif %}
+  
+{% endblock %}

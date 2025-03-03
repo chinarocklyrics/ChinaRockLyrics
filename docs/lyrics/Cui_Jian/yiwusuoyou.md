@@ -1,7 +1,8 @@
 ---
 title: 一无所有
-parent: 崔健
+parent: Cui_Jian
 nav_order: 1
+audio: yes
 ---
 
 # 一无所有
@@ -41,13 +42,4 @@ nav_order: 1
 脚下的地在走  
 身边的水在流  
 噢……你这就跟我走  
-噢……你这就跟我走  
-
-<button onclick="document.getElementById('hiddenAudio').play();">
-  🎵 Listen
-</button>
-
-<audio id="hiddenAudio" controls style="display: none;">
-  <source src="/audio/Cui_Jian/yiwusuoyou.m4a" type="audio/mp4">
-  Your browser does not support the audio element.
-</audio>
+噢……你这就跟我走

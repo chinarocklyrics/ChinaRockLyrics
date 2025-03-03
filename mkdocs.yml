@@ -7,6 +7,9 @@ theme:
     text: Noto Sans
   logo: assets/favicon.ico
   favicon: assets/favicon.ico
+  features:
+    - navigation.top
+    - navigation.indexes
 
   palette:
     # Dark Mode
@@ -37,16 +40,18 @@ extra:
 nav:
   - Home: index.md
   - Singer or Band Name:
-#      - singer_or_band_name/index.md
+      - singer_or_band_name/index.md
       - Singer or Band Name Starts with C:
-#          - singer_or_band_name/singer_or_band_name_c/index.md
+          - singer_or_band_name/singer_or_band_name_c/index.md
           - 崔健: singer_or_band_name/singer_or_band_name_c/Cui_Jian/index.md
       - Singer or Band Name Starts with H:
+          - singer_or_band_name/singer_or_band_name_h/index.md
           - 黑豹: singer_or_band_name/singer_or_band_name_h/Hei_Bao/index.md
       - Singer or Band Name Starts with T:
+          - singer_or_band_name/singer_or_band_name_t/index.md
           - 唐朝: singer_or_band_name/singer_or_band_name_t/Tang_Chao/index.md
   - Song Name:
-#      - song_name/index.md
+      - song_name/index.md
       - Song Name Starts with B: song_name/song_name_b/index.md
       - Song Name Starts with C: song_name/song_name_c/index.md
       - Song Name Starts with D: song_name/song_name_d/index.md
