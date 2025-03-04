@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
+  <button onclick="history.back()" style="margin-bottom: 20px;">⬅ Back</button>
   {{ super() }}
   {% if page.meta.audio %}
     {% set audio_path = page.file.src_path | replace("lyrics/", "/audio/") | replace(".md", ".m4a") %}
