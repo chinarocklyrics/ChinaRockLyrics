@@ -1,7 +1,8 @@
 {% extends "base.html" %}
 
 {% block content %}
-  <button onclick="history.back()" style="margin-bottom: 20px;">⬅ Back</button>
+  
+  
   {{ super() }}
   {% if page.meta.audio %}
     {% set audio_path = page.file.src_path | replace("lyrics/", "/audio/") | replace(".md", ".m4a") %}
@@ -13,6 +14,10 @@
       <source src="{{ audio_path }}" type="audio/mp4">
       Your browser does not support the audio element.
     </audio>
+  {% endif %}
+
+  {% if not page.meta.description %}
+    <button onclick="history.back()" style="margin-bottom: 20px;">⬅ Back</button>
   {% endif %}
   
 {% endblock %}
