@@ -2,6 +2,7 @@
 title: 出走
 parent: 崔健
 nav_order: 8
+audio: yes
 ---
 
 # 出走

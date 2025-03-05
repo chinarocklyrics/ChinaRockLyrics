@@ -2,6 +2,7 @@
 title: 传说
 parent: 唐朝
 nav_order: 10
+audio: yes
 ---
 
 # 传说

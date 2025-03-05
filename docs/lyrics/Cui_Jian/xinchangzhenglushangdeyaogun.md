@@ -2,6 +2,7 @@
 title: 新长征路上的摇滚
 parent: 崔健
 nav_order: 2
+audio: yes
 ---
 
 # 新长征路上的摇滚

@@ -2,6 +2,7 @@
 title: 脸谱
 parent: 黑豹
 nav_order: 7
+audio: yes
 ---
 
 # 脸谱

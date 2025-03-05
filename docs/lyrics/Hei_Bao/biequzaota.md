@@ -2,6 +2,7 @@
 title: 別去糟蹋
 parent: 黑豹
 nav_order: 10
+audio: yes
 ---
 
 # 別去糟蹋

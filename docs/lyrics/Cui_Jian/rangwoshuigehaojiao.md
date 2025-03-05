@@ -2,6 +2,7 @@
 title: 让我睡个好觉
 parent: 崔健
 nav_order: 4
+audio: yes
 ---
 
 # 让我睡个好觉

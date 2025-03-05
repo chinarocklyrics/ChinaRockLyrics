@@ -2,6 +2,7 @@
 title: Take Care
 parent: 黑豹
 nav_order: 2
+audio: yes
 ---
 
 # Take Care

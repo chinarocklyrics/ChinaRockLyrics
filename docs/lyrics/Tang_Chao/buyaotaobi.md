@@ -2,6 +2,7 @@
 title: 不要逃避
 parent: 唐朝
 nav_order: 9
+audio: yes
 ---
 
 # 不要逃避

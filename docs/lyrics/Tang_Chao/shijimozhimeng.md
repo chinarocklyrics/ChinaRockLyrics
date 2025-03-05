@@ -2,6 +2,7 @@
 title: 世纪末之梦
 parent: 唐朝
 nav_order: 7
+audio: yes
 ---
 
 # 世纪末之梦

@@ -2,6 +2,7 @@
 title: 不是我不明白
 parent: 崔健
 nav_order: 9
+audio: yes
 ---
 
 # 不是我不明白

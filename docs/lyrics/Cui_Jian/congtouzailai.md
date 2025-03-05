@@ -2,6 +2,7 @@
 title: 从头再来
 parent: 崔健
 nav_order: 7
+audio: yes
 ---
 
 # 从头再来

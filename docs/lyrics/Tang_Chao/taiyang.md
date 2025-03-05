@@ -2,6 +2,7 @@
 title: 太阳
 parent: 唐朝
 nav_order: 2
+audio: yes
 ---
 
 # 太阳

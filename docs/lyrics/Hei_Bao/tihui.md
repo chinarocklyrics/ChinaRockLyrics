@@ -2,6 +2,7 @@
 title: 体会
 parent: 黑豹
 nav_order: 3
+audio: yes
 ---
 
 # 体会

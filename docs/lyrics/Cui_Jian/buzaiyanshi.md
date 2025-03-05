@@ -2,6 +2,7 @@
 title: 不再掩饰
 parent: 崔健
 nav_order: 3
+audio: yes
 ---
 
 # 不再掩饰

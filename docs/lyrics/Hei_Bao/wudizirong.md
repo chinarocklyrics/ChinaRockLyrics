@@ -2,6 +2,7 @@
 title: 无地自容
 parent: 黑豹
 nav_order: 1
+audio: yes
 ---
 
 # 无地自容

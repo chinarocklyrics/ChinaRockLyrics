@@ -2,6 +2,7 @@
 title: 飞翔鸟
 parent: 唐朝
 nav_order: 6
+audio: yes
 ---
 
 # 飞翔鸟

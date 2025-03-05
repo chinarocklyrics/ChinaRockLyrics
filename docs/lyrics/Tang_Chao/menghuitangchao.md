@@ -2,6 +2,7 @@
 title: 梦回唐朝
 parent: 唐朝
 nav_order: 1
+audio: yes
 ---
 
 # 梦回唐朝

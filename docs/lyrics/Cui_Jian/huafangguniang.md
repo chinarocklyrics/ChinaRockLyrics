@@ -2,6 +2,7 @@
 title: 花房姑娘
 parent: 崔健
 nav_order: 5
+audio: yes
 ---
 
 # 花房姑娘

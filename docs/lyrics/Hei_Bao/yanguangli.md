@@ -2,6 +2,7 @@
 title: 眼光里
 parent: 黑豹
 nav_order: 9
+audio: yes
 ---
 
 # 眼光里

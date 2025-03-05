@@ -2,6 +2,7 @@
 title: 九拍
 parent: 唐朝
 nav_order: 3
+audio: yes
 ---
 
 # 九拍

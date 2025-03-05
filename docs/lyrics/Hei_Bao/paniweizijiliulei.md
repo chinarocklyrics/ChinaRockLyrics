@@ -2,6 +2,7 @@
 title: 怕你为自己流泪
 parent: 黑豹
 nav_order: 8
+audio: yes
 ---
 
 # 怕你为自己流泪

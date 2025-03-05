@@ -2,6 +2,7 @@
 title: 靠近我
 parent: 黑豹
 nav_order: 5
+audio: yes
 ---
 
 # 靠近我

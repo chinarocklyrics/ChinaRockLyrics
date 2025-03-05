@@ -2,6 +2,7 @@
 title: 别来纠缠我
 parent: 黑豹
 nav_order: 4
+audio: yes
 ---
 
 # 别来纠缠我

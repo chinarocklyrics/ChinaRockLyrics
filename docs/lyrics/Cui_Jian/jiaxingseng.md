@@ -2,6 +2,7 @@
 title: 假行僧
 parent: 崔健
 nav_order: 6
+audio: yes
 ---
 
 # 假行僧

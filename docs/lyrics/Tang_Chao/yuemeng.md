@@ -2,6 +2,7 @@
 title: 月梦
 parent: 唐朝
 nav_order: 8
+audio: yes
 ---
 
 # 月梦

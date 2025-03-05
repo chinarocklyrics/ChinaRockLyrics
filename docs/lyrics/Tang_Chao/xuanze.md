@@ -2,6 +2,7 @@
 title: 选择
 parent: 唐朝
 nav_order: 5
+audio: yes
 ---
 
 # 选择

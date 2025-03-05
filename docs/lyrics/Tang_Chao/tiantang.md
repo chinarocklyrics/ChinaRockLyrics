@@ -2,6 +2,7 @@
 title: 天堂
 parent: 唐朝
 nav_order: 4
+audio: yes
 ---
 
 # 天堂
