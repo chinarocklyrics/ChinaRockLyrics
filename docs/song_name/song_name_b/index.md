@@ -11,3 +11,5 @@ nav_order: 2
 - [不要逃避](/lyrics/Tang_Chao/buyaotaobi)
 - [别来纠缠我](/lyrics/Hei_Bao/bielaijiuchanwo)
 - [別去糟蹋](/lyrics/Hei_Bao/biequzaota)
+- [别再试图阻拦我](/lyrics/Wei_Hua/biezaishituzulanwo)
+- [不用再多说](/lyrics/Wei_Hua/buyongzaiduoshuo)

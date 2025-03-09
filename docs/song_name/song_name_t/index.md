@@ -10,3 +10,4 @@ nav_order: 20
 - [天堂](/lyrics/Tang_Chao/tiantang)
 - [Take Care](/lyrics/Hei_Bao/takecare)
 - [体会](/lyrics/Hei_Bao/tihui)
+- [太阳升](/lyrics/Wei_Hua/taiyangsheng)

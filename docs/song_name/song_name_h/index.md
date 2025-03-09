@@ -8,3 +8,4 @@ nav_order: 8
 
 - [花房姑娘](/lyrics/Cui_Jian/huafangguniang)
 - [回来](/lyrics/Wei_Hua/huilai)
+- [挥起手](/lyrics/Wei_Hua/huiqishou)
