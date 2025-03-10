@@ -8,3 +8,5 @@ nav_order: 10
 
 - [假行僧](/lyrics/Cui_Jian/jiaxingseng)
 - [九拍](/lyrics/Tang_Chao/jiupai)
+- [解决](/lyrics/Cui_Jian/jiejue)
+- [寂寞就像一团烈火](/lyrics/Cui_Jian/jimojiuxiangyituanliehuo)

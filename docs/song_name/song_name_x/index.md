@@ -8,3 +8,4 @@ nav_order: 24
 
 - [新长征路上的摇滚](/lyrics/Cui_Jian/xinchangzhenglushangdeyaogun)
 - [选择](/lyrics/Tang_Chao/xuanze)
+- [像一把刀子](/lyrics/Cui_Jian/xiangyibadaozi)

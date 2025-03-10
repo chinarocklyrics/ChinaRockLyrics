@@ -7,3 +7,5 @@ nav_order: 26
 # Song Name Starts with Z
 
 - [走过人间辉煌](/lyrics/Wei_Hua/zouguorenjianhuihuang)
+- [这儿的空间](/lyrics/Cui_Jian/zheerdekongjian)
+- [最后一枪](/lyrics/Cui_Jian/zuihouyiqiang)

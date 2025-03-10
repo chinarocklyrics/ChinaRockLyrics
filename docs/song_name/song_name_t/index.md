@@ -11,3 +11,4 @@ nav_order: 20
 - [Take Care](/lyrics/Hei_Bao/takecare)
 - [体会](/lyrics/Hei_Bao/tihui)
 - [太阳升](/lyrics/Wei_Hua/taiyangsheng)
+- [投机分子](/lyrics/Cui_Jian/toujifenzi)
