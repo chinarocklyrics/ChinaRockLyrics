@@ -7,10 +7,12 @@ nav_order: 2
 
 The collection of lyrics of Chinese Rock Music is organized by Song Name in alphabetically order of the PINYIN of the song name.
 
+- [Sone Name Starts with A](song_name_a/index.md)
 - [Sone Name Starts with B](song_name_b/index.md)
 - [Sone Name Starts with C](song_name_c/index.md)
 - [Sone Name Starts with D](song_name_d/index.md)
 - [Sone Name Starts with F](song_name_f/index.md)
+- [Sone Name Starts with G](song_name_g/index.md)
 - [Sone Name Starts with H](song_name_h/index.md)
 - [Sone Name Starts with J](song_name_j/index.md)
 - [Sone Name Starts with K](song_name_k/index.md)
@@ -23,3 +25,4 @@ The collection of lyrics of Chinese Rock Music is organized by Song Name in alph
 - [Sone Name Starts with W](song_name_w/index.md)
 - [Sone Name Starts with X](song_name_x/index.md)
 - [Sone Name Starts with Y](song_name_y/index.md)
+- [Sone Name Starts with Z](song_name_z/index.md)

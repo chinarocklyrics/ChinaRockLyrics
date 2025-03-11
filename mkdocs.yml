@@ -57,12 +57,17 @@ nav:
       - Singer or Band Name Starts with W:
           - singer_or_band_name/singer_or_band_name_w/index.md
           - 蔚华: singer_or_band_name/singer_or_band_name_w/Wei_Hua/index.md
+      - Singer or Band Name Starts with Z:
+          - singer_or_band_name/singer_or_band_name_z/index.md
+          - 赵牧阳: singer_or_band_name/singer_or_band_name_z/Zhao_Mu_Yang/index.md
   - Song Name:
       - song_name/index.md
+      - Song Name Starts with A: song_name/song_name_a/index.md
       - Song Name Starts with B: song_name/song_name_b/index.md
       - Song Name Starts with C: song_name/song_name_c/index.md
       - Song Name Starts with D: song_name/song_name_d/index.md
       - Song Name Starts with F: song_name/song_name_f/index.md
+      - Song Name Starts with G: song_name/song_name_g/index.md
       - Song Name Starts with H: song_name/song_name_h/index.md
       - Song Name Starts with J: song_name/song_name_j/index.md
       - Song Name Starts with K: song_name/song_name_k/index.md

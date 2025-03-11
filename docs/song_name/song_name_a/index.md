@@ -1,0 +1,9 @@
+---
+title: Song Name Starts with A
+parent: Song Name 
+nav_order: 1
+---
+
+# Song Name Starts with A
+
+- [爱的心](/lyrics/Zhao_Mu_Yang/aidexin)

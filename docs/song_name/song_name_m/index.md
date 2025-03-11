@@ -8,3 +8,4 @@ nav_order: 20
 
 - [梦回唐朝](/lyrics/Tang_Chao/menghuitangchao)
 - [每次都想拥抱你](/lyrics/Wei_Hua/meicidouxiangyongbaoni)
+- [梦想与追求](/lyrics/Zhao_Mu_Yang/mengxiangyuzhuiqiu)
