@@ -10,3 +10,4 @@ nav_order: 10
 - [九拍](/lyrics/Tang_Chao/jiupai)
 - [解决](/lyrics/Cui_Jian/jiejue)
 - [寂寞就像一团烈火](/lyrics/Cui_Jian/jimojiuxiangyituanliehuo)
+- [姐姐](/lyrics/Zhang_Chu/jiejie)

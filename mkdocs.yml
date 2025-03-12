@@ -60,6 +60,7 @@ nav:
       - Singer or Band Name Starts with Z:
           - singer_or_band_name/singer_or_band_name_z/index.md
           - 赵牧阳: singer_or_band_name/singer_or_band_name_z/Zhao_Mu_Yang/index.md
+          - 张楚: singer_or_band_name/singer_or_band_name_z/Zhang_Chu/index.md
   - Song Name:
       - song_name/index.md
       - Song Name Starts with A: song_name/song_name_a/index.md
