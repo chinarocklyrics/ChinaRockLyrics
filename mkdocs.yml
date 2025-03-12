@@ -38,6 +38,11 @@ extra:
   analytics:
     provider: google
     property: G-H778WWH39N
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=61574273391141
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/ChinaRockLyrics
 
 # Page tree
 nav:
