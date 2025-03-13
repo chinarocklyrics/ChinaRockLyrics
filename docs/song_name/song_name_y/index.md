@@ -10,3 +10,4 @@ nav_order: 25
 - [一块红布](/lyrics/Cui_Jian/yikuaihongbu)
 - [月梦](/lyrics/Tang_Chao/yuemeng)
 - [眼光里](/lyrics/Hei_Bao/yanguangli)
+- [永久的等你](/lyrics/Zhao_Gang/yongjiudedengni)

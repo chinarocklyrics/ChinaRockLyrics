@@ -1,6 +1,6 @@
 ---
 title: Song Name
-nav_order: 2
+nav_order: 3
 ---
 
 # Song Name

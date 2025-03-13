@@ -9,3 +9,4 @@ nav_order: 23
 - [无地自容](/lyrics/Hei_Bao/wudizirong)
 - [我不再忙](/lyrics/Wei_Hua/wobuzaimang)
 - [我要成家](/lyrics/Zhao_Mu_Yang/woyaochengjia)
+- [我不能随便说](/lyrics/ADO/wobunengsuibianshuo)
