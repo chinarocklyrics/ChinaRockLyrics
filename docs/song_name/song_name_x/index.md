@@ -11,3 +11,5 @@ nav_order: 24
 - [像一把刀子](/lyrics/Cui_Jian/xiangyibadaozi)
 - [小鸟](/lyrics/Hou_Mu_Ren/xiaoniao)
 - [兄弟](/lyrics/Hou_Mu_Ren/xiongdi)
+- [希望 太阳 世界](/lyrics/Zang_Tian_Shuo/xiwangtaiyangshijie)
+- [希望之光](/lyrics/Zuo_Meng/xiwangzhiguang)
