@@ -12,4 +12,5 @@ The collection of lyrics of Chinese Rock Music is organized by Singer or Band Na
 - [Singer or Band Name Starts H](singer_or_band_name_h/index.md)
 - [Singer or Band Name Starts T](singer_or_band_name_t/index.md)
 - [Singer or Band Name Starts W](singer_or_band_name_w/index.md)
+- [Singer or Band Name Starts Y](singer_or_band_name_y/index.md)
 - [Singer or Band Name Starts Z](singer_or_band_name_z/index.md)
