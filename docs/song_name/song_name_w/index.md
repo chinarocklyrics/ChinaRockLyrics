@@ -10,3 +10,4 @@ nav_order: 23
 - [我不再忙](/lyrics/Wei_Hua/wobuzaimang)
 - [我要成家](/lyrics/Zhao_Mu_Yang/woyaochengjia)
 - [我不能随便说](/lyrics/ADO/wobunengsuibianshuo)
+- [我爱你中国](/lyrics/Hou_Mu_Ren/woainizhongguo)

@@ -10,3 +10,4 @@ nav_order: 2
 - [兄弟](/lyrics/Hou_Mu_Ren/xiongdi)
 - [花衣裳](/lyrics/Hou_Mu_Ren/huayishang)
 - [留下油灯光](/lyrics/Hou_Mu_Ren/liuxiayoudengguang)
+- [我爱你中国](/lyrics/Hou_Mu_Ren/woainizhongguo)
