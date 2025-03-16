@@ -8,3 +8,4 @@ nav_order: 19
 
 - [世纪末之梦](/lyrics/Tang_Chao/shijimozhimeng)
 - [思念的家](/lyrics/Zhao_Mu_Yang/siniandejia)
+- [说说](/lyrics/1989/shuoshuo)

@@ -55,11 +55,13 @@ nav:
       - Singer or Band Name Starts with C:
           - singer_or_band_name/singer_or_band_name_c/index.md
           - 崔健: singer_or_band_name/singer_or_band_name_c/Cui_Jian/index.md
+          - 超载: singer_or_band_name/singer_or_band_name_c/Chao_Zai/index.md
       - Singer or Band Name Starts with H:
           - singer_or_band_name/singer_or_band_name_h/index.md
           - 黑豹: singer_or_band_name/singer_or_band_name_h/Hei_Bao/index.md
           - 侯牧人: singer_or_band_name/singer_or_band_name_h/Hou_Mu_Ren/index.md
           - 红色部队: singer_or_band_name/singer_or_band_name_h/Hong_Se_Bu_Dui/index.md
+          - 呼吸: singer_or_band_name/singer_or_band_name_h/Hu_Xi/index.md
       - Singer or Band Name Starts with M:
           - singer_or_band_name/singer_or_band_name_m/index.md
           - 面孔: singer_or_band_name/singer_or_band_name_m/Mian_Kong/index.md    
@@ -72,6 +74,7 @@ nav:
       - Singer or Band Name Starts with Y:
           - singer_or_band_name/singer_or_band_name_y/index.md
           - 眼镜蛇: singer_or_band_name/singer_or_band_name_y/Yan_Jing_She/index.md
+          - 1989: singer_or_band_name/singer_or_band_name_y/1989/index.md
       - Singer or Band Name Starts with Z:
           - singer_or_band_name/singer_or_band_name_z/index.md
           - 赵牧阳: singer_or_band_name/singer_or_band_name_z/Zhao_Mu_Yang/index.md
