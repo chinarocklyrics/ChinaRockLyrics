@@ -8,3 +8,4 @@ nav_order: 11
 
 - [靠近我](/lyrics/Hei_Bao/kaojinwo)
 - [快让我在这雪地上撒点野](/lyrics/Cui_Jian/kuairangwozaizhexuedishangsadianye)
+- [渴望的地方](/lyrics/Hei_Bao/kewangdedifang)

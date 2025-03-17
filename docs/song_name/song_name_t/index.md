@@ -14,3 +14,4 @@ nav_order: 20
 - [投机分子](/lyrics/Cui_Jian/toujifenzi)
 - [天意](/lyrics/Zhao_Mu_Yang/tianyi)
 - [童体画](/lyrics/Hou_Mu_Ren/tongtihua)
+- [同在一片天空下](/lyrics/Hei_Bao/tongzaiyipiantiankongxia)

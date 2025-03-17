@@ -9,3 +9,4 @@ nav_order: 7
 - [过去已经太多](/lyrics/Zhao_Mu_Yang/guoquyijingtaiduo)
 - [给我一点爱](/lyrics/Mian_Kong/geiwoyidianai)
 - [感觉](/lyrics/Hou_Mu_Ren/ganjue)
+- [光芒之神](/lyrics/Hei_Bao/guangmangzhishen)

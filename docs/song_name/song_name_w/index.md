@@ -11,3 +11,5 @@ nav_order: 23
 - [我要成家](/lyrics/Zhao_Mu_Yang/woyaochengjia)
 - [我不能随便说](/lyrics/ADO/wobunengsuibianshuo)
 - [我爱你中国](/lyrics/Hou_Mu_Ren/woainizhongguo)
+- [我问](/lyrics/Hei_Bao/wowen)
+- [我不想说](/lyrics/Hei_Bao/wobuxiangshuo)
