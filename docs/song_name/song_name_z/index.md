@@ -11,3 +11,4 @@ nav_order: 26
 - [最后一枪](/lyrics/Cui_Jian/zuihouyiqiang)
 - [真诚的心](/lyrics/Zhao_Mu_Yang/zhenchengdexin)
 - [昨日的友情](/lyrics/Zhao_Mu_Yang/zuorideyouqing)
+- [自已的天堂](/lyrics/Yan_Jing_She/zijidetiantang)

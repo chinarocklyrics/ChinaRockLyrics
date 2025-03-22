@@ -7,3 +7,4 @@ nav_order: 23
 # Singer or Band Name Starts with W
 
 - [蔚华](Wei_Hua/index.md)
+- [王勇](Wang_Yong/index.md)
