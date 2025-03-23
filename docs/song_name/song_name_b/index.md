@@ -16,3 +16,4 @@ nav_order: 2
 - [不愿再说](/lyrics/Zhao_Mu_Yang/buyuanzaishuo)
 - [不是游戏的年纪](/lyrics/Yan_Jing_She/bushiyouxidenianji)
 - [边疆](/lyrics/Hou_Mu_Ren/bianjiang)
+- [不要匆忙](/lyrics/Xin_Di/buyaocongmang)
