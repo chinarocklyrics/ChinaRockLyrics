@@ -12,3 +12,4 @@ nav_order: 26
 - [真诚的心](/lyrics/Zhao_Mu_Yang/zhenchengdexin)
 - [昨日的友情](/lyrics/Zhao_Mu_Yang/zuorideyouqing)
 - [自已的天堂](/lyrics/Yan_Jing_She/zijidetiantang)
+- [祖先的阴影](/lyrics/Chao_Zai/zuxiandeyinying)

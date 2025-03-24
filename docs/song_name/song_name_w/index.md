@@ -13,3 +13,4 @@ nav_order: 23
 - [我爱你中国](/lyrics/Hou_Mu_Ren/woainizhongguo)
 - [我问](/lyrics/Hei_Bao/wowen)
 - [我不想说](/lyrics/Hei_Bao/wobuxiangshuo)
+- [玩世不恭](/lyrics/Chang_Kuan/wanshibugong)

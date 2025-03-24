@@ -12,3 +12,4 @@ nav_order: 26
 - [自我教育](Zi_Wo_Jiao_Yu/index.md)
 - [臧天朔](Zang_Tian_Shuo/index.md)
 - [做梦](Zuo_Meng/index.md)
+- [指南针](Zhi_Nan_Zhen/index.md)

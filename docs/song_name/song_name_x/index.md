@@ -13,3 +13,4 @@ nav_order: 24
 - [兄弟](/lyrics/Hou_Mu_Ren/xiongdi)
 - [希望 太阳 世界](/lyrics/Zang_Tian_Shuo/xiwangtaiyangshijie)
 - [希望之光](/lyrics/Zuo_Meng/xiwangzhiguang)
+- [新世界](/lyrics/Hu_Xi/xinshijie)

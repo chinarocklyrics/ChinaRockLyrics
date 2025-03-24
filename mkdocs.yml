@@ -56,6 +56,7 @@ nav:
           - singer_or_band_name/singer_or_band_name_c/index.md
           - 崔健: singer_or_band_name/singer_or_band_name_c/Cui_Jian/index.md
           - 超载: singer_or_band_name/singer_or_band_name_c/Chao_Zai/index.md
+          - 常宽: singer_or_band_name/singer_or_band_name_c/Chang_Kuan/index.md
       - Singer or Band Name Starts with H:
           - singer_or_band_name/singer_or_band_name_h/index.md
           - 黑豹: singer_or_band_name/singer_or_band_name_h/Hei_Bao/index.md
@@ -87,6 +88,7 @@ nav:
           - 自我教育: singer_or_band_name/singer_or_band_name_z/Zi_Wo_Jiao_Yu/index.md
           - 臧天朔: singer_or_band_name/singer_or_band_name_z/Zang_Tian_Shuo/index.md
           - 做梦: singer_or_band_name/singer_or_band_name_z/Zuo_Meng/index.md
+          - 指南针: singer_or_band_name/singer_or_band_name_z/Zhi_Nan_Zhen/index.md
   - Song Name:
       - song_name/index.md
       - Song Name Starts with A: song_name/song_name_a/index.md
@@ -102,6 +104,7 @@ nav:
       - Song Name Starts with M: song_name/song_name_m/index.md
       - Song Name Starts with N: song_name/song_name_n/index.md
       - Song Name Starts with P: song_name/song_name_p/index.md
+      - Song Name Starts with Q: song_name/song_name_q/index.md
       - Song Name Starts with R: song_name/song_name_r/index.md
       - Song Name Starts with S: song_name/song_name_s/index.md
       - Song Name Starts with T: song_name/song_name_t/index.md
