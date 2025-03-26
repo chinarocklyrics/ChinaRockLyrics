@@ -14,3 +14,4 @@ nav_order: 23
 - [我问](/lyrics/Hei_Bao/wowen)
 - [我不想说](/lyrics/Hei_Bao/wobuxiangshuo)
 - [玩世不恭](/lyrics/Chang_Kuan/wanshibugong)
+- [无言的反抗](/lyrics/Chen_Jin/wuyandefankang)

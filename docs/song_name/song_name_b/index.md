@@ -17,3 +17,4 @@ nav_order: 2
 - [不是游戏的年纪](/lyrics/Yan_Jing_She/bushiyouxidenianji)
 - [边疆](/lyrics/Hou_Mu_Ren/bianjiang)
 - [不要匆忙](/lyrics/Xin_Di/buyaocongmang)
+- [逼上梁山](/lyrics/Chen_Jin/bishangliangshan)
