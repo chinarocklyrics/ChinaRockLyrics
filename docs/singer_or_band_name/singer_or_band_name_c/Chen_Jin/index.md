@@ -10,3 +10,4 @@ nav_order: 4
 - [这个与那个](/lyrics/Chen_Jin/zhegeyunage)
 - [逼上梁山](/lyrics/Chen_Jin/bishangliangshan)
 - [无言的反抗](/lyrics/Chen_Jin/wuyandefankang)
+- [阳光下的温柔](/lyrics/Chen_Jin/yangguangxiadewenrou)

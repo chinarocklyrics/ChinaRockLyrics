@@ -11,3 +11,4 @@ nav_order: 25
 - [月梦](/lyrics/Tang_Chao/yuemeng)
 - [眼光里](/lyrics/Hei_Bao/yanguangli)
 - [永久的等你](/lyrics/Zhao_Gang/yongjiudedengni)
+- [阳光下的温柔](/lyrics/Chen_Jin/yangguangxiadewenrou)
