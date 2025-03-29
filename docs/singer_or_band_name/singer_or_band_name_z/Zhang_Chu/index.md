@@ -7,3 +7,4 @@ nav_order: 2
 # 张楚
 
 - [姐姐](/lyrics/Zhang_Chu/jiejie)
+- [西出阳关](/lyrics/Zhang_Chu/xichuyangguan)

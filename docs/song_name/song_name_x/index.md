@@ -14,3 +14,4 @@ nav_order: 24
 - [希望 太阳 世界](/lyrics/Zang_Tian_Shuo/xiwangtaiyangshijie)
 - [希望之光](/lyrics/Zuo_Meng/xiwangzhiguang)
 - [新世界](/lyrics/Hu_Xi/xinshijie)
+- [西出阳关](/lyrics/Zhang_Chu/xichuyangguan)
