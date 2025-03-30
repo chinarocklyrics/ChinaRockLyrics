@@ -1,7 +1,7 @@
 ---
 title: 指南针
 parent: Singer or Band Name Starts with Z
-nav_order: 6
+nav_order: 7
 ---
 
 # 指南针

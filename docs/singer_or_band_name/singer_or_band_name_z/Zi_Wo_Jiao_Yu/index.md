@@ -1,7 +1,7 @@
 ---
 title: 自我教育
 parent: Singer or Band Name Starts with Z
-nav_order: 1
+nav_order: 4
 ---
 
 # 自我教育

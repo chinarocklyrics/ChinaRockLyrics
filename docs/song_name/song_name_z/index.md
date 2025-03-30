@@ -14,3 +14,4 @@ nav_order: 26
 - [自已的天堂](/lyrics/Yan_Jing_She/zijidetiantang)
 - [祖先的阴影](/lyrics/Chao_Zai/zuxiandeyinying)
 - [这个与那个](/lyrics/Chen_Jin/zhegeyunage)
+- [走吧](/lyrics/Zhou_Si_Yu/zouba)
