@@ -18,3 +18,4 @@ nav_order: 2
 - [边疆](/lyrics/Hou_Mu_Ren/bianjiang)
 - [不要匆忙](/lyrics/Xin_Di/buyaocongmang)
 - [逼上梁山](/lyrics/Chen_Jin/bishangliangshan)
+- [BPMF](/lyrics/Zhang_Chu/bpmf)

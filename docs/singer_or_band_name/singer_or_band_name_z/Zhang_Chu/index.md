@@ -8,3 +8,4 @@ nav_order: 2
 
 - [姐姐](/lyrics/Zhang_Chu/jiejie)
 - [西出阳关](/lyrics/Zhang_Chu/xichuyangguan)
+- [BPMF](/lyrics/Zhang_Chu/bpmf)

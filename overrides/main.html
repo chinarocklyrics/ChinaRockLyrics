@@ -2,10 +2,13 @@
 
 {% block content %}
   
-  
+  {% if page.meta.audio %}
+    <h3>{{ page.meta.parent }}</h3>
+  {% endif %}
+
   {{ super() }}
   {% if page.meta.audio %}
-    {% set audio_path = page.file.src_path | replace("lyrics/", "/audio/") | replace(".md", ".m4a") %}
+    {% set audio_path = page.file.src_path | replace("lyrics/", "/audio/") | replace(".md", "") %}
     <div>
       <button onclick="document.getElementById('hiddenAudio').play();">
         🎵 Listen
@@ -13,7 +16,8 @@
     </div>
     
     <audio id="hiddenAudio" controls style="display: none;">
-      <source src="{{ audio_path }}" type="audio/mp4">
+      <source src="{{ audio_path }}.m4a" type="audio/mp4">
+      <source src="{{ audio_path }}.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   {% endif %}
