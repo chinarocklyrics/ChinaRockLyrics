@@ -4,8 +4,6 @@ parent: Song Name
 nav_order: 2
 ---
 
-# Song Name Starts with B
-
 - [不再掩饰](/lyrics/Cui_Jian/buzaiyanshi)
 - [不是我不明白](/lyrics/Cui_Jian/bushiwobumingbai)
 - [不要逃避](/lyrics/Tang_Chao/buyaotaobi)
@@ -19,3 +17,4 @@ nav_order: 2
 - [不要匆忙](/lyrics/Xin_Di/buyaocongmang)
 - [逼上梁山](/lyrics/Chen_Jin/bishangliangshan)
 - [BPMF](/lyrics/Zhang_Chu/bpmf)
+- [北方过客](/lyrics/Zhang_Ling/beifangguoke)
