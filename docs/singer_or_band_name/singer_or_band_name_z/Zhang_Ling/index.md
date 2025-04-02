@@ -5,3 +5,4 @@ nav_order: 9
 ---
 
 - [北方过客](/lyrics/Zhang_Ling/beifangguoke)
+- [一鸣惊人](/lyrics/Zhang_Ling/yimingjingren)
