@@ -12,3 +12,4 @@ nav_order: 25
 - [阳光下的温柔](/lyrics/Chen_Jin/yangguangxiadewenrou)
 - [爷爷奶奶的故事](/lyrics/Wan_Xiao_Yuan/yeyenainaidegushi)
 - [一鸣惊人](/lyrics/Zhang_Ling/yimingjingren)
+- [一生祈求](/lyrics/Wei_Hua/yishengqiqiu)

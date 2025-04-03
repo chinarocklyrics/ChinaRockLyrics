@@ -4,8 +4,6 @@ parent: Singer or Band Name Starts with W
 nav_order: 1
 ---
 
-# 蔚华
-
 - [回来](/lyrics/Wei_Hua/huilai)
 - [我不再忙](/lyrics/Wei_Hua/wobuzaimang)
 - [每次都想拥抱你](/lyrics/Wei_Hua/meicidouxiangyongbaoni)
@@ -16,3 +14,4 @@ nav_order: 1
 - [分手已是太久](/lyrics/Wei_Hua/fenshouyishitaijiu)
 - [太阳升](/lyrics/Wei_Hua/taiyangsheng)
 - [让我站立起](/lyrics/Wei_Hua/rangwozhanliqi)
+- [一生祈求](/lyrics/Wei_Hua/yishengqiqiu)
