@@ -18,3 +18,4 @@ nav_order: 2
 - [逼上梁山](/lyrics/Chen_Jin/bishangliangshan)
 - [BPMF](/lyrics/Zhang_Chu/bpmf)
 - [北方过客](/lyrics/Zhang_Ling/beifangguoke)
+- [不再躲藏](/lyrics/Da_Tou_Xie/buzaiduocang)
