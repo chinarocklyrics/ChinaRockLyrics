@@ -1,12 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-  
-  {% if page.meta.audio %}
-    <h3>{{ page.meta.parent }}</h3>
-  {% endif %}
 
-  {{ super() }}
   {% if page.meta.audio %}
     {% set audio_path = page.file.src_path | replace("lyrics/", "/audio/") | replace(".md", "") %}
     <div>
@@ -21,6 +16,14 @@
       Your browser does not support the audio element.
     </audio>
   {% endif %}
+  
+  {% if page.meta.audio %}
+    <h3>{{ page.meta.parent }}</h3>
+  {% endif %}
+
+
+
+  {{ super() }}
 
   {% if not page.meta.description %}
     <div style="margin-top: 10px;">

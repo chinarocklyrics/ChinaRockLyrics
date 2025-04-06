@@ -4,6 +4,4 @@ parent: Singer or Band Name Starts with M
 nav_order: 1
 ---
 
-# 面孔
-
 - [给我一点爱](/lyrics/Mian_Kong/geiwoyidianai)
