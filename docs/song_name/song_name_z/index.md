@@ -15,3 +15,4 @@ nav_order: 26
 - [祖先的阴影](/lyrics/Chao_Zai/zuxiandeyinying)
 - [这个与那个](/lyrics/Chen_Jin/zhegeyunage)
 - [走吧](/lyrics/Zhou_Si_Yu/zouba)
+- [在你眼泪流出之际](/lyrics/Meng_Huan/zainiyanleiliuchuzhiji)
