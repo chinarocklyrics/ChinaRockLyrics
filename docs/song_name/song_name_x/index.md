@@ -4,8 +4,6 @@ parent: Song Name
 nav_order: 24
 ---
 
-# Song Name Starts with X
-
 - [新长征路上的摇滚](/lyrics/Cui_Jian/xinchangzhenglushangdeyaogun)
 - [选择](/lyrics/Tang_Chao/xuanze)
 - [像一把刀子](/lyrics/Cui_Jian/xiangyibadaozi)
@@ -15,3 +13,4 @@ nav_order: 24
 - [希望之光](/lyrics/Zuo_Meng/xiwangzhiguang)
 - [新世界](/lyrics/Hu_Xi/xinshijie)
 - [西出阳关](/lyrics/Zhang_Chu/xichuyangguan)
+- [选择](/lyrics/I_Star_M/xuanze)
