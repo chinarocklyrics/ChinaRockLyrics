@@ -10,3 +10,4 @@ nav_order: 12
 - [累](/lyrics/Hong_Se_Bu_Dui/lei)
 - [绿色劫难](/lyrics/Hei_Bao/lvsejienan)
 - [绿腰](/lyrics/Zhuang_Tai_Zu/lvyao)
+- [路过此地](/lyrics/Shou_Ren/luguocidi)
